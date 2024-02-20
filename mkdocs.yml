@@ -1,4 +1,6 @@
 nav:
+  - Connected_Mobility_Solution: CMS_README.md
   - Fleetwise_Live_EV_Battery_Monitoring: EV_Battery.md
+  
 site_name: CMS Technical Docs
 theme: readthedocs
